@@ -168,4 +168,6 @@ int main()
     system("cls");
     printf("YOU LOSE\n");
     printf("Your score: %d", myMap.score);
+    
+    return 0;
 }
